@@ -61,11 +61,11 @@ Telegram-native personal finance dashboard with a weekly Claude Haiku digest.
 <tr>
 <td width="50%" valign="top">
 
-### [kortex](https://github.com/gagan-53/kortex)
+### [kortex](https://github.com/gagan-53/kortex) · [live](https://kortex-gd.netlify.app)
 
-PDF → AI flashcards with spaced repetition. Brutalist design + Kort the mascot.
+PDF → AI flashcards with spaced repetition — SM-2 scheduling on Neon Postgres, serverless on Netlify.
 
-![FOCUS](https://img.shields.io/badge/FOCUS-e4581b?style=flat-square) ![](https://img.shields.io/badge/EDUCATION_%7C_GEMINI_%7C_SUPABASE-241521?style=flat-square)
+![FOCUS](https://img.shields.io/badge/FOCUS-e4581b?style=flat-square) ![](https://img.shields.io/badge/EDUCATION_%7C_GEMINI_%7C_NEON--POSTGRES-241521?style=flat-square)
 
 ![](https://img.shields.io/github/stars/gagan-53/kortex?style=flat-square&labelColor=241521&color=f08a24) ![](https://img.shields.io/github/forks/gagan-53/kortex?style=flat-square&labelColor=241521&color=da7757)
 
