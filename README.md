@@ -1,5 +1,12 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/eagle-dark.svg">
+    <img src="assets/eagle-light.svg" width="180" alt="Pixel eagle — the hero">
+  </picture>
+</p>
+
 <h1 align="center">Gagandeep Singh</h1>
-<p align="center"><sub><i>gagan-53</i></sub></p>
+<p align="center"><sub><b>AI BUILDER @ CUEMATH &nbsp;·&nbsp; AGENTIC AI &nbsp;·&nbsp; DATA & INSIGHTS</b></sub></p>
 
 <p align="center">
 <i>I stopped writing code and started writing constraints. Then I gave the code to a team of AI agents and kept the judgment. Turns out the moat isn't the tool — it's the process around it. AI handles volume and speed; the process handles correctness; I handle judgment, product decisions, and everything the AI isn't allowed to decide alone. One person shipping at team pace, provided the gates hold.</i>
@@ -11,7 +18,7 @@
 
 ## Now
 
-**AI Builder @ [Cuemath](https://cuemath.com)** — design and ship the production platforms behind internal operations end-to-end. Next.js + Postgres, plus the analytics layer that shapes strategy upstream.
+**AI Builder @ [Cuemath](https://cuemath.com)** — I design, ship, and operate the production platform behind internal operations, end to end. Next.js + Postgres, plus the analytics layer that shapes strategy upstream.
 
 **Pro Claude Code + Agentic AI builder** — every feature ships via multi-agent Claude Code sessions under sprint plans with structured review gates. For big builds this scales to ~20-agent teams with a master orchestrator sequencing sprints.
 
