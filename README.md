@@ -37,13 +37,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### [portfolio](https://github.com/gagan-53/portfolio) · [live](https://portfolio-gagan-53.netlify.app)
+### [portfolio](https://portfolio-gagan-53.netlify.app) · [live](https://portfolio-gagan-53.netlify.app)
 
 Dusk-terminal portfolio — scroll dives into the monitor; the whole site lives inside the screen.
 
 ![FOCUS](https://img.shields.io/badge/FOCUS-f08a24?style=flat-square) ![](https://img.shields.io/badge/DESIGN_%7C_NEXTJS_%7C_FRAMER--MOTION-241521?style=flat-square)
 
-![](https://img.shields.io/github/stars/gagan-53/portfolio?style=flat-square&labelColor=241521&color=f08a24) ![](https://img.shields.io/github/forks/gagan-53/portfolio?style=flat-square&labelColor=241521&color=da7757)
+![](https://img.shields.io/badge/private_repo-live_demo-241521?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
